@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "nome": "Arroz",
+      "id": 1
+    },
+    {
+      "nome": "Feijão",
+      "id": 2
+    }
+  ]
+}
